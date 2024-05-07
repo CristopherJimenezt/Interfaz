@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Class_Interfaz",
+            "request": "launch",
+            "mainClass": "Interfaz.Class_Interfaz",
+            "projectName": "Deber_Interfaz_b17a8bd4",
+            "vmArgs": "--module-path \"c:\\Users\\USUARIO\\Desktop\\javafx-sdk-17.0.8\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Taller_Interfaz",
+            "request": "launch",
+            "mainClass": "Interfaz.Taller_Interfaz",
+            "projectName": "Deber_Interfaz_b17a8bd4",
+            "vmArgs": "--module-path \"c:\\Users\\USUARIO\\Desktop\\javafx-sdk-17.0.8\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
